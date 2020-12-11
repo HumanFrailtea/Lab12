@@ -1,4 +1,12 @@
-﻿using System;
+﻿/// Homework No.__ Exercise No.__
+/// File Name:     Lab 12.sln
+/// @author:       Upendra Samaranayake
+/// Date:          November 9, 2020
+///
+/// Problem Statement: Write a program that reads both the girl's and boy's files into memory using a dictionary
+///    
+
+using System;
 using System.IO;
 
 namespace Lab12
